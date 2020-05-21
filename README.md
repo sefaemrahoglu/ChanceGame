@@ -1,4 +1,6 @@
-# pogaca-nerede-kart-oyunu
+## Şans Oyunu
+
+Açık kartlardan birini seçtikten sonra, kapalı olan karta tıklayınız. 
 
 > A Vue.js project
 
@@ -11,8 +13,4 @@ npm install
 # serve with hot reload at localhost:8080
 npm run dev
 
-# build for production with minification
-npm run build
-```
-
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
+![img](/image/img.PNG)
